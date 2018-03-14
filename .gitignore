@@ -1,0 +1,11 @@
+/assets/build
+/assets/images/sprites
+/css/sprites
+/node_modules
+.idea
+/*.html
+nav.json
+.htacces
+.php
+node_modules_custom/bemto.jade/lib/helpers.pug
+node_modules_custom/bemto.jade/lib/index.pug

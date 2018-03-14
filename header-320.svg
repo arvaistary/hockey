@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="222" viewBox="0 0 320 222">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #2e2c32;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="-74" y="-80" width="525" height="302" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="14" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="7.681"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="svg__header-320" class="cls-1" d="M-9-16L359.079-32.924a19.584,19.584,0,0,1,21.24,17.774l9.588,109.13a19.58,19.58,0,0,1-17.815,21.2l-350.2,30.75A19.584,19.584,0,0,1,.654,128.159L-8.934,19.027C-9.88,8.264-19.785-15.052-9-16Z" transform="translate(-1)"/>
+</svg>
