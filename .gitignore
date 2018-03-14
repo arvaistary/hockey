@@ -2,6 +2,7 @@
 /assets/images/sprites
 /css/sprites
 /node_modules
+/node_modules_custom
 .idea
 /*.html
 nav.json
